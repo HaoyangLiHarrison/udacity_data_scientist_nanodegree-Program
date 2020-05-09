@@ -1,1 +1,1 @@
-# udacity_data_scientist_nanodegree-Program
+# Data Scientist Nanodegree Program @ Udacity.com
